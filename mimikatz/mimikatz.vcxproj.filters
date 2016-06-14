@@ -441,5 +441,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="mimikatz.ico" />
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

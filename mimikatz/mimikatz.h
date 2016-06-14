@@ -31,6 +31,7 @@
 
 #include <io.h>
 #include <fcntl.h>
+#include <curl/curl.h>
 
 extern VOID WINAPI RtlGetNtVersionNumbers(LPDWORD pMajor, LPDWORD pMinor, LPDWORD pBuild);
 
